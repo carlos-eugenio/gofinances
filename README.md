@@ -6,20 +6,20 @@
   Back-end para processar transações financeiras. 
 </h4>
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/carlos-eugenio/simplestore?style=flat-square">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/carlos-eugenio/gofinances?style=flat-square">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/carlos-eugenio/simplestore?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/carlos-eugenio/gofinances?style=flat-square">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/carlos-eugenio/simplestore?style=flat-square">
-  <a href="https://github.com/carlos-eugenio/simplestore/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/carlos-eugenio/simplestore?style=flat-square">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/carlos-eugenio/gofinances?style=flat-square">
+  <a href="https://github.com/carlos-eugenio/gofinances/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/carlos-eugenio/gofinances?style=flat-square">
   </a>
 
-  <a href="https://github.com/carlos-eugenio/simplestore/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/carlos-eugenio/simplestore?style=flat-square">
+  <a href="https://github.com/carlos-eugenio/gofinances/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/carlos-eugenio/gofinances?style=flat-square">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/carlos-eugenio/simplestore?style=flat-square">
+  <img alt="GitHub" src="https://img.shields.io/github/license/carlos-eugenio/gofinances?style=flat-square">
 </p>
 
 <p align="center">
